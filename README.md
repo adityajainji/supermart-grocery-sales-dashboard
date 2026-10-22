@@ -133,6 +133,9 @@ supermart-grocery-sales-dashboard/
     ├── objective_4.png
     └── dataset.png
 ```
+## 📚 Data Source
+
+The dataset used in this project was provided by **SapphireIQ** as part of a data analytics student project. All analysis, pivot tables, charts and dashboard design are my own work.
 
 ## 👤 Author
 
